@@ -1,0 +1,15 @@
+{
+    "name": "drupal/graphql_apq",
+    "type": "drupal-module",
+    "description": "Automatic Persisted Queries with GraphQL.",
+    "homepage": "https://github.com/drupal-graphql/graphql-apq",
+    "authors": [{
+      "name": "Lucas Constantino Silva",
+      "homepage": "https://github.com/lucasconstantino"
+    }],
+    "support": {
+      "issues": "https://github.com/drupal-graphql/graphql-apq"
+    },
+    "license": "GPL-3.0-or-later",
+    "minimum-stability": "dev"
+  }
